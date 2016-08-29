@@ -1,0 +1,133 @@
+2016/08/29 17:40:46 [emerg] 1#1: unknown directive "modsecurity" in /etc/nginx/conf.d/proxy.conf:5
+2016/08/29 17:43:16 [emerg] 1#1: unknown directive "modsecurity" in /etc/nginx/conf.d/proxy.conf:5
+2016/08/29 17:49:33 [emerg] 1#1: unknown directive "modsecurity" in /etc/nginx/conf.d/proxy.conf:5
+2016/08/29 17:50:49 [emerg] 1#1: unknown directive "modsecurity" in /etc/nginx/conf.d/proxy.conf:5
+2016/08/29 17:51:31 [notice] 1#1: using the "epoll" event method
+2016/08/29 17:51:31 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 17:51:31 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 17:51:31 [notice] 1#1: OS: Linux 4.4.0-34-generic
+2016/08/29 17:51:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 17:51:31 [notice] 1#1: start worker processes
+2016/08/29 17:51:31 [notice] 1#1: start worker process 6
+2016/08/29 17:51:31 [notice] 1#1: start worker process 7
+2016/08/29 17:58:03 [notice] 158#158: signal process started
+2016/08/29 17:58:03 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 17:58:03 [notice] 1#1: reconfiguring
+2016/08/29 17:58:03 [notice] 1#1: using the "epoll" event method
+2016/08/29 17:58:03 [notice] 1#1: start worker processes
+2016/08/29 17:58:03 [notice] 1#1: start worker process 159
+2016/08/29 17:58:03 [notice] 1#1: start worker process 160
+2016/08/29 17:58:04 [notice] 7#7: gracefully shutting down
+2016/08/29 17:58:04 [notice] 6#6: gracefully shutting down
+2016/08/29 17:58:04 [notice] 7#7: exiting
+2016/08/29 17:58:04 [notice] 6#6: exiting
+2016/08/29 17:58:04 [notice] 7#7: exit
+2016/08/29 17:58:04 [notice] 6#6: exit
+2016/08/29 17:58:04 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 17:58:04 [notice] 1#1: worker process 6 exited with code 0
+2016/08/29 17:58:04 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 17:58:04 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 17:58:04 [notice] 1#1: worker process 7 exited with code 0
+2016/08/29 17:58:04 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 17:59:29 [emerg] 169#169: "proxy_set_header" directive Rules error. File: /etc/nginx/modsec/main.conf. Line: 4. Column: 1. invalid character E in /etc/nginx/nginx.conf:33
+2016/08/29 18:03:14 [emerg] 173#173: "proxy_set_header" directive Rules error. File: /etc/nginx/modsec/main.conf. Line: 4. Column: 1. invalid character E in /etc/nginx/nginx.conf:33
+2016/08/29 18:03:58 [emerg] 186#186: "proxy_set_header" directive Rules error. File: /etc/nginx/modsec/main.conf. Line: 4. Column: 1. invalid character E in /etc/nginx/nginx.conf:33
+2016/08/29 18:04:36 [notice] 189#189: signal process started
+2016/08/29 18:04:36 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:04:36 [notice] 1#1: reconfiguring
+2016/08/29 18:04:36 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:04:36 [notice] 1#1: start worker processes
+2016/08/29 18:04:36 [notice] 1#1: start worker process 190
+2016/08/29 18:04:36 [notice] 1#1: start worker process 191
+2016/08/29 18:04:36 [notice] 160#160: gracefully shutting down
+2016/08/29 18:04:36 [notice] 160#160: exiting
+2016/08/29 18:04:36 [notice] 160#160: exit
+2016/08/29 18:04:36 [notice] 159#159: gracefully shutting down
+2016/08/29 18:04:36 [notice] 159#159: exiting
+2016/08/29 18:04:36 [notice] 159#159: exit
+2016/08/29 18:04:36 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:04:36 [notice] 1#1: worker process 160 exited with code 0
+2016/08/29 18:04:36 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:04:36 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:04:36 [notice] 1#1: worker process 159 exited with code 0
+2016/08/29 18:04:36 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:18:29 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:18:29 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 18:18:29 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 18:18:29 [notice] 1#1: OS: Linux 4.4.0-34-generic
+2016/08/29 18:18:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 18:18:29 [notice] 1#1: start worker processes
+2016/08/29 18:18:29 [notice] 1#1: start worker process 8
+2016/08/29 18:18:29 [notice] 1#1: start worker process 9
+2016/08/29 18:19:09 [error] 9#9: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8085/", host: "0.0.0.0:32781"
+2016/08/29 18:19:09 [warn] 9#9: *9 upstream server temporarily disabled while connecting to upstream, client: 172.17.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8085/", host: "0.0.0.0:32781"
+2016/08/29 18:26:17 [notice] 21#21: signal process started
+2016/08/29 18:26:17 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:26:17 [notice] 1#1: reconfiguring
+2016/08/29 18:26:17 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:26:17 [notice] 1#1: start worker processes
+2016/08/29 18:26:17 [notice] 1#1: start worker process 25
+2016/08/29 18:26:17 [notice] 1#1: start worker process 26
+2016/08/29 18:26:17 [notice] 9#9: gracefully shutting down
+2016/08/29 18:26:17 [notice] 9#9: exiting
+2016/08/29 18:26:17 [notice] 8#8: gracefully shutting down
+2016/08/29 18:26:17 [notice] 8#8: exiting
+2016/08/29 18:26:17 [notice] 8#8: exit
+2016/08/29 18:26:17 [notice] 9#9: exit
+2016/08/29 18:26:17 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:26:17 [notice] 1#1: worker process 8 exited with code 0
+2016/08/29 18:26:17 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:26:17 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:26:17 [notice] 1#1: worker process 9 exited with code 0
+2016/08/29 18:26:17 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:26:43 [notice] 27#27: signal process started
+2016/08/29 18:26:43 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:26:43 [notice] 1#1: reconfiguring
+2016/08/29 18:26:43 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:26:43 [notice] 1#1: start worker processes
+2016/08/29 18:26:43 [notice] 1#1: start worker process 31
+2016/08/29 18:26:43 [notice] 1#1: start worker process 32
+2016/08/29 18:26:43 [notice] 25#25: gracefully shutting down
+2016/08/29 18:26:43 [notice] 25#25: exiting
+2016/08/29 18:26:43 [notice] 25#25: exit
+2016/08/29 18:26:43 [notice] 26#26: gracefully shutting down
+2016/08/29 18:26:43 [notice] 26#26: exiting
+2016/08/29 18:26:43 [notice] 26#26: exit
+2016/08/29 18:26:43 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:26:43 [notice] 1#1: worker process 26 exited with code 0
+2016/08/29 18:26:43 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:26:43 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:26:43 [notice] 1#1: worker process 25 exited with code 0
+2016/08/29 18:26:43 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:46:34 [error] 32#32: *21 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8085/", host: "localhost:32781"
+2016/08/29 18:46:34 [warn] 32#32: *21 upstream server temporarily disabled while connecting to upstream, client: 172.17.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8085/", host: "localhost:32781"
+2016/08/29 19:02:15 [notice] 33#33: signal process started
+2016/08/29 19:02:15 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 19:02:15 [notice] 1#1: reconfiguring
+2016/08/29 19:02:15 [notice] 1#1: using the "epoll" event method
+2016/08/29 19:02:15 [notice] 1#1: start worker processes
+2016/08/29 19:02:15 [notice] 1#1: start worker process 37
+2016/08/29 19:02:15 [notice] 1#1: start worker process 38
+2016/08/29 19:02:15 [notice] 31#31: gracefully shutting down
+2016/08/29 19:02:15 [notice] 31#31: exiting
+2016/08/29 19:02:15 [notice] 31#31: exit
+2016/08/29 19:02:15 [notice] 32#32: gracefully shutting down
+2016/08/29 19:02:15 [notice] 32#32: exiting
+2016/08/29 19:02:15 [notice] 32#32: exit
+2016/08/29 19:02:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:02:15 [notice] 1#1: worker process 31 exited with code 0
+2016/08/29 19:02:15 [notice] 1#1: worker process 32 exited with code 0
+2016/08/29 19:02:15 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 19:02:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:02:24 [error] 37#37: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://0.0.0.0:32787/", host: "0.0.0.0:32781"
+2016/08/29 19:05:15 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/29 19:05:15 [notice] 37#37: exiting
+2016/08/29 19:05:15 [notice] 37#37: exit
+2016/08/29 19:05:15 [notice] 38#38: exiting
+2016/08/29 19:05:15 [notice] 38#38: exit
+2016/08/29 19:05:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:05:15 [notice] 1#1: worker process 37 exited with code 0
+2016/08/29 19:05:15 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 19:05:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:05:15 [notice] 1#1: worker process 38 exited with code 0
+2016/08/29 19:05:15 [notice] 1#1: exit

@@ -1,0 +1,103 @@
+
+2016/08/29 18:30:51 [emerg] 1#1: unknown directive "modsecurity" in /etc/nginx/conf.d/proxy.conf:4
+2016/08/29 18:34:01 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:34:01 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 18:34:01 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 18:34:01 [notice] 1#1: OS: Linux 4.4.0-34-generic
+2016/08/29 18:34:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 18:34:01 [notice] 1#1: start worker processes
+2016/08/29 18:34:01 [notice] 1#1: start worker process 7
+2016/08/29 18:34:01 [notice] 1#1: start worker process 8
+2016/08/29 18:34:52 [notice] 9#9: signal process started
+2016/08/29 18:34:52 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:34:52 [notice] 1#1: reconfiguring
+2016/08/29 18:34:52 [notice] 1#1: using the "epoll" event method
+2016/08/29 18:34:52 [notice] 1#1: start worker processes
+2016/08/29 18:34:52 [notice] 1#1: start worker process 13
+2016/08/29 18:34:52 [notice] 1#1: start worker process 14
+2016/08/29 18:34:52 [notice] 8#8: gracefully shutting down
+2016/08/29 18:34:52 [notice] 8#8: exiting
+2016/08/29 18:34:52 [notice] 8#8: exit
+2016/08/29 18:34:52 [notice] 7#7: gracefully shutting down
+2016/08/29 18:34:52 [notice] 7#7: exiting
+2016/08/29 18:34:52 [notice] 7#7: exit
+2016/08/29 18:34:52 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:34:52 [notice] 1#1: worker process 7 exited with code 0
+2016/08/29 18:34:52 [notice] 1#1: worker process 8 exited with code 0
+2016/08/29 18:34:52 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 18:34:52 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 18:40:47 [emerg] 35#35: directive "server_name" is not terminated by ";" in /etc/nginx/conf.d/echo.conf:5
+2016/08/29 18:41:51 [emerg] 40#40: directive "server_name" is not terminated by ";" in /etc/nginx/conf.d/wafdemo.conf:5
+2016/08/29 18:55:30 [emerg] 222#222: directive "server_name" is not terminated by ";" in /etc/nginx/conf.d/wafdemo.conf:5
+2016/08/29 18:55:57 [notice] 227#227: signal process started
+2016/08/29 18:55:57 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:55:57 [notice] 1#1: reconfiguring
+2016/08/29 18:55:57 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:55:57 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:55:57 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:55:57 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:55:57 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:55:57 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:55:57 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:55:57 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:55:57 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:55:57 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:55:57 [emerg] 1#1: still could not bind()
+2016/08/29 18:57:58 [notice] 254#254: signal process started
+2016/08/29 18:57:58 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:57:58 [notice] 1#1: reconfiguring
+2016/08/29 18:57:58 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:57:58 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:57:58 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:57:58 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:57:58 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:57:58 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:57:58 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:57:58 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:57:58 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:57:58 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:57:58 [emerg] 1#1: still could not bind()
+2016/08/29 18:59:49 [notice] 296#296: signal process started
+2016/08/29 18:59:49 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 18:59:49 [notice] 1#1: reconfiguring
+2016/08/29 18:59:49 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:59:49 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:59:49 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:59:49 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:59:49 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:59:49 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:59:49 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:59:49 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:59:49 [emerg] 1#1: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/08/29 18:59:49 [notice] 1#1: try again to bind() after 500ms
+2016/08/29 18:59:49 [emerg] 1#1: still could not bind()
+2016/08/29 19:00:42 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/29 19:00:42 [notice] 14#14: exiting
+2016/08/29 19:00:42 [notice] 13#13: exiting
+2016/08/29 19:00:42 [notice] 14#14: exit
+2016/08/29 19:00:42 [notice] 13#13: exit
+2016/08/29 19:00:42 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:00:42 [notice] 1#1: worker process 14 exited with code 0
+2016/08/29 19:00:42 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 19:00:42 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:00:42 [notice] 1#1: worker process 13 exited with code 0
+2016/08/29 19:00:42 [notice] 1#1: exit
+2016/08/29 19:01:11 [notice] 1#1: using the "epoll" event method
+2016/08/29 19:01:11 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 19:01:11 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 19:01:11 [notice] 1#1: OS: Linux 4.4.0-34-generic
+2016/08/29 19:01:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 19:01:11 [notice] 1#1: start worker processes
+2016/08/29 19:01:11 [notice] 1#1: start worker process 7
+2016/08/29 19:01:11 [notice] 1#1: start worker process 8
+2016/08/29 19:05:15 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/29 19:05:15 [notice] 7#7: exiting
+2016/08/29 19:05:15 [notice] 8#8: exiting
+2016/08/29 19:05:15 [notice] 8#8: exit
+2016/08/29 19:05:15 [notice] 7#7: exit
+2016/08/29 19:05:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:05:15 [notice] 1#1: worker process 7 exited with code 0
+2016/08/29 19:05:15 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 19:05:15 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 19:05:15 [notice] 1#1: worker process 8 exited with code 0
+2016/08/29 19:05:15 [notice] 1#1: exit
