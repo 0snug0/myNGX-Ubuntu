@@ -131,3 +131,358 @@
 2016/08/29 19:05:15 [notice] 1#1: signal 17 (SIGCHLD) received
 2016/08/29 19:05:15 [notice] 1#1: worker process 38 exited with code 0
 2016/08/29 19:05:15 [notice] 1#1: exit
+2016/08/29 21:39:15 [notice] 1#1: using the "epoll" event method
+2016/08/29 21:39:15 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 21:39:15 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 21:39:15 [notice] 1#1: OS: Linux 4.4.0-36-generic
+2016/08/29 21:39:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 21:39:15 [notice] 1#1: start worker processes
+2016/08/29 21:39:15 [notice] 1#1: start worker process 6
+2016/08/29 21:39:15 [notice] 1#1: start worker process 7
+2016/08/29 21:42:00 [notice] 8#8: signal process started
+2016/08/29 21:42:00 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 21:42:00 [notice] 1#1: reconfiguring
+2016/08/29 21:42:00 [notice] 1#1: using the "epoll" event method
+2016/08/29 21:42:00 [notice] 1#1: start worker processes
+2016/08/29 21:42:00 [notice] 1#1: start worker process 13
+2016/08/29 21:42:00 [notice] 1#1: start worker process 14
+2016/08/29 21:42:00 [notice] 6#6: gracefully shutting down
+2016/08/29 21:42:00 [notice] 6#6: exiting
+2016/08/29 21:42:00 [notice] 6#6: exit
+2016/08/29 21:42:00 [notice] 7#7: gracefully shutting down
+2016/08/29 21:42:00 [notice] 7#7: exiting
+2016/08/29 21:42:00 [notice] 7#7: exit
+2016/08/29 21:42:00 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 21:42:00 [notice] 1#1: worker process 7 exited with code 0
+2016/08/29 21:42:00 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 21:42:00 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 21:42:00 [notice] 1#1: worker process 6 exited with code 0
+2016/08/29 21:42:00 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 21:48:14 [notice] 15#15: signal process started
+2016/08/29 21:48:14 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 21:48:14 [notice] 1#1: reconfiguring
+2016/08/29 21:48:14 [notice] 1#1: using the "epoll" event method
+2016/08/29 21:48:14 [notice] 1#1: start worker processes
+2016/08/29 21:48:14 [notice] 1#1: start worker process 19
+2016/08/29 21:48:14 [notice] 1#1: start worker process 20
+2016/08/29 21:48:14 [notice] 13#13: gracefully shutting down
+2016/08/29 21:48:14 [notice] 13#13: exiting
+2016/08/29 21:48:14 [notice] 13#13: exit
+2016/08/29 21:48:14 [notice] 14#14: gracefully shutting down
+2016/08/29 21:48:14 [notice] 14#14: exiting
+2016/08/29 21:48:14 [notice] 14#14: exit
+2016/08/29 21:48:14 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 21:48:14 [notice] 1#1: worker process 13 exited with code 0
+2016/08/29 21:48:14 [notice] 1#1: worker process 14 exited with code 0
+2016/08/29 21:48:14 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 22:50:31 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/29 22:50:31 [notice] 20#20: exiting
+2016/08/29 22:50:31 [notice] 19#19: exiting
+2016/08/29 22:50:31 [notice] 19#19: exit
+2016/08/29 22:50:31 [notice] 20#20: exit
+2016/08/29 22:50:31 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:50:31 [notice] 1#1: worker process 19 exited with code 0
+2016/08/29 22:50:31 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 22:50:31 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:50:31 [notice] 1#1: worker process 20 exited with code 0
+2016/08/29 22:50:31 [notice] 1#1: exit
+2016/08/29 22:51:59 [notice] 1#1: using the "epoll" event method
+2016/08/29 22:51:59 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 22:51:59 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 22:51:59 [notice] 1#1: OS: Linux 4.4.0-36-generic
+2016/08/29 22:51:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 22:51:59 [notice] 1#1: start worker processes
+2016/08/29 22:51:59 [notice] 1#1: start worker process 7
+2016/08/29 22:51:59 [notice] 1#1: start worker process 8
+2016/08/29 22:55:16 [emerg] 17#17: "http" directive is not allowed here in /etc/nginx/conf.d/proxy.conf:1
+2016/08/29 22:58:01 [notice] 65#65: signal process started
+2016/08/29 22:58:01 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 22:58:01 [notice] 1#1: reconfiguring
+2016/08/29 22:58:01 [notice] 1#1: using the "epoll" event method
+2016/08/29 22:58:01 [notice] 1#1: start worker processes
+2016/08/29 22:58:01 [notice] 1#1: start worker process 70
+2016/08/29 22:58:01 [notice] 1#1: start worker process 71
+2016/08/29 22:58:01 [notice] 8#8: gracefully shutting down
+2016/08/29 22:58:01 [notice] 8#8: exiting
+2016/08/29 22:58:01 [notice] 7#7: gracefully shutting down
+2016/08/29 22:58:01 [notice] 7#7: exiting
+2016/08/29 22:58:01 [notice] 8#8: exit
+2016/08/29 22:58:01 [notice] 7#7: exit
+2016/08/29 22:58:01 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:58:01 [notice] 1#1: worker process 8 exited with code 0
+2016/08/29 22:58:01 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 22:58:01 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:58:01 [notice] 1#1: worker process 7 exited with code 0
+2016/08/29 22:58:01 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 22:58:55 [notice] 72#72: signal process started
+2016/08/29 22:58:55 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 22:58:55 [notice] 1#1: reconfiguring
+2016/08/29 22:58:55 [notice] 1#1: using the "epoll" event method
+2016/08/29 22:58:55 [notice] 1#1: start worker processes
+2016/08/29 22:58:55 [notice] 1#1: start worker process 76
+2016/08/29 22:58:55 [notice] 1#1: start worker process 77
+2016/08/29 22:58:56 [notice] 70#70: gracefully shutting down
+2016/08/29 22:58:56 [notice] 70#70: exiting
+2016/08/29 22:58:56 [notice] 70#70: exit
+2016/08/29 22:58:56 [notice] 71#71: gracefully shutting down
+2016/08/29 22:58:56 [notice] 71#71: exiting
+2016/08/29 22:58:56 [notice] 71#71: exit
+2016/08/29 22:58:56 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:58:56 [notice] 1#1: worker process 71 exited with code 0
+2016/08/29 22:58:56 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 22:58:56 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 22:58:56 [notice] 1#1: worker process 70 exited with code 0
+2016/08/29 22:58:56 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:31:33 [notice] 99#99: signal process started
+2016/08/29 23:31:33 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:31:33 [notice] 1#1: reconfiguring
+2016/08/29 23:31:33 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:31:33 [notice] 1#1: start worker processes
+2016/08/29 23:31:33 [notice] 1#1: start worker process 100
+2016/08/29 23:31:33 [notice] 1#1: start worker process 101
+2016/08/29 23:31:33 [notice] 76#76: gracefully shutting down
+2016/08/29 23:31:33 [notice] 76#76: exiting
+2016/08/29 23:31:33 [notice] 76#76: exit
+2016/08/29 23:31:33 [notice] 77#77: gracefully shutting down
+2016/08/29 23:31:33 [notice] 77#77: exiting
+2016/08/29 23:31:33 [notice] 77#77: exit
+2016/08/29 23:31:33 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:31:33 [notice] 1#1: worker process 76 exited with code 0
+2016/08/29 23:31:33 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:31:33 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:31:33 [notice] 1#1: worker process 77 exited with code 0
+2016/08/29 23:31:33 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:33:33 [notice] 122#122: signal process started
+2016/08/29 23:33:33 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:33:33 [notice] 1#1: reconfiguring
+2016/08/29 23:33:33 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:33:33 [notice] 1#1: start worker processes
+2016/08/29 23:33:33 [notice] 1#1: start worker process 127
+2016/08/29 23:33:33 [notice] 1#1: start worker process 128
+2016/08/29 23:33:33 [notice] 101#101: gracefully shutting down
+2016/08/29 23:33:33 [notice] 101#101: exiting
+2016/08/29 23:33:33 [notice] 101#101: exit
+2016/08/29 23:33:33 [notice] 100#100: gracefully shutting down
+2016/08/29 23:33:33 [notice] 100#100: exiting
+2016/08/29 23:33:33 [notice] 100#100: exit
+2016/08/29 23:33:33 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:33:33 [notice] 1#1: worker process 101 exited with code 0
+2016/08/29 23:33:33 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:33:33 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:33:33 [notice] 1#1: worker process 100 exited with code 0
+2016/08/29 23:33:33 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:33:49 [notice] 129#129: signal process started
+2016/08/29 23:33:49 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:33:49 [notice] 1#1: reconfiguring
+2016/08/29 23:33:49 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:33:49 [notice] 1#1: start worker processes
+2016/08/29 23:33:49 [notice] 1#1: start worker process 133
+2016/08/29 23:33:49 [notice] 1#1: start worker process 134
+2016/08/29 23:33:49 [notice] 128#128: gracefully shutting down
+2016/08/29 23:33:49 [notice] 128#128: exiting
+2016/08/29 23:33:49 [notice] 128#128: exit
+2016/08/29 23:33:49 [notice] 127#127: gracefully shutting down
+2016/08/29 23:33:49 [notice] 127#127: exiting
+2016/08/29 23:33:49 [notice] 127#127: exit
+2016/08/29 23:33:49 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:33:49 [notice] 1#1: worker process 128 exited with code 0
+2016/08/29 23:33:49 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:33:49 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:33:49 [notice] 1#1: worker process 127 exited with code 0
+2016/08/29 23:33:49 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:36:05 [notice] 144#144: signal process started
+2016/08/29 23:36:05 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:36:05 [notice] 1#1: reconfiguring
+2016/08/29 23:36:05 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:36:05 [notice] 1#1: start worker processes
+2016/08/29 23:36:05 [notice] 1#1: start worker process 149
+2016/08/29 23:36:05 [notice] 1#1: start worker process 150
+2016/08/29 23:36:05 [notice] 134#134: gracefully shutting down
+2016/08/29 23:36:05 [notice] 134#134: exiting
+2016/08/29 23:36:05 [notice] 134#134: exit
+2016/08/29 23:36:05 [notice] 133#133: gracefully shutting down
+2016/08/29 23:36:05 [notice] 133#133: exiting
+2016/08/29 23:36:05 [notice] 133#133: exit
+2016/08/29 23:36:05 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:36:05 [notice] 1#1: worker process 133 exited with code 0
+2016/08/29 23:36:05 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:36:05 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:36:05 [notice] 1#1: worker process 134 exited with code 0
+2016/08/29 23:36:05 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:36:58 [notice] 151#151: signal process started
+2016/08/29 23:36:58 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:36:58 [notice] 1#1: reconfiguring
+2016/08/29 23:36:58 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:36:58 [notice] 1#1: start worker processes
+2016/08/29 23:36:58 [notice] 1#1: start worker process 156
+2016/08/29 23:36:58 [notice] 1#1: start worker process 157
+2016/08/29 23:36:58 [notice] 149#149: gracefully shutting down
+2016/08/29 23:36:58 [notice] 149#149: exiting
+2016/08/29 23:36:58 [notice] 149#149: exit
+2016/08/29 23:36:58 [notice] 150#150: gracefully shutting down
+2016/08/29 23:36:58 [notice] 150#150: exiting
+2016/08/29 23:36:58 [notice] 150#150: exit
+2016/08/29 23:36:58 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:36:58 [notice] 1#1: worker process 149 exited with code 0
+2016/08/29 23:36:58 [notice] 1#1: worker process 150 exited with code 0
+2016/08/29 23:36:58 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:38:25 [emerg] 166#166: unknown directive "servername" in /etc/nginx/conf.d/proxy.conf:7
+2016/08/29 23:38:48 [notice] 176#176: signal process started
+2016/08/29 23:38:48 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:38:48 [notice] 1#1: reconfiguring
+2016/08/29 23:38:48 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:38:48 [notice] 1#1: start worker processes
+2016/08/29 23:38:48 [notice] 1#1: start worker process 180
+2016/08/29 23:38:48 [notice] 1#1: start worker process 181
+2016/08/29 23:38:48 [notice] 156#156: gracefully shutting down
+2016/08/29 23:38:48 [notice] 156#156: exiting
+2016/08/29 23:38:48 [notice] 156#156: exit
+2016/08/29 23:38:48 [notice] 157#157: gracefully shutting down
+2016/08/29 23:38:48 [notice] 157#157: exiting
+2016/08/29 23:38:48 [notice] 157#157: exit
+2016/08/29 23:38:48 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:38:48 [notice] 1#1: worker process 156 exited with code 0
+2016/08/29 23:38:48 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:38:48 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:38:48 [notice] 1#1: worker process 157 exited with code 0
+2016/08/29 23:38:48 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:39:38 [emerg] 182#182: directive "access_log" is not terminated by ";" in /etc/nginx/conf.d/proxy.conf:13
+2016/08/29 23:40:56 [notice] 197#197: signal process started
+2016/08/29 23:40:56 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:40:56 [notice] 1#1: reconfiguring
+2016/08/29 23:40:56 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:40:56 [notice] 1#1: start worker processes
+2016/08/29 23:40:56 [notice] 1#1: start worker process 202
+2016/08/29 23:40:56 [notice] 1#1: start worker process 203
+2016/08/29 23:40:56 [notice] 180#180: gracefully shutting down
+2016/08/29 23:40:56 [notice] 180#180: exiting
+2016/08/29 23:40:56 [notice] 180#180: exit
+2016/08/29 23:40:56 [notice] 181#181: gracefully shutting down
+2016/08/29 23:40:56 [notice] 181#181: exiting
+2016/08/29 23:40:56 [notice] 181#181: exit
+2016/08/29 23:40:56 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:40:56 [notice] 1#1: worker process 180 exited with code 0
+2016/08/29 23:40:56 [notice] 1#1: worker process 181 exited with code 0
+2016/08/29 23:40:56 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:41:02 [notice] 204#204: signal process started
+2016/08/29 23:41:02 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:41:02 [notice] 1#1: reconfiguring
+2016/08/29 23:41:02 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:41:02 [notice] 1#1: start worker processes
+2016/08/29 23:41:02 [notice] 1#1: start worker process 209
+2016/08/29 23:41:02 [notice] 1#1: start worker process 210
+2016/08/29 23:41:02 [notice] 202#202: gracefully shutting down
+2016/08/29 23:41:02 [notice] 202#202: exiting
+2016/08/29 23:41:02 [notice] 202#202: exit
+2016/08/29 23:41:02 [notice] 203#203: gracefully shutting down
+2016/08/29 23:41:02 [notice] 203#203: exiting
+2016/08/29 23:41:02 [notice] 203#203: exit
+2016/08/29 23:41:02 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:41:02 [notice] 1#1: worker process 203 exited with code 0
+2016/08/29 23:41:02 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:41:02 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:41:02 [notice] 1#1: worker process 202 exited with code 0
+2016/08/29 23:41:02 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:42:14 [notice] 211#211: signal process started
+2016/08/29 23:42:14 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:42:14 [notice] 1#1: reconfiguring
+2016/08/29 23:42:14 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:42:14 [notice] 1#1: start worker processes
+2016/08/29 23:42:14 [notice] 1#1: start worker process 216
+2016/08/29 23:42:14 [notice] 1#1: start worker process 217
+2016/08/29 23:42:14 [notice] 210#210: gracefully shutting down
+2016/08/29 23:42:14 [notice] 210#210: exiting
+2016/08/29 23:42:14 [notice] 210#210: exit
+2016/08/29 23:42:14 [notice] 209#209: gracefully shutting down
+2016/08/29 23:42:14 [notice] 209#209: exiting
+2016/08/29 23:42:14 [notice] 209#209: exit
+2016/08/29 23:42:14 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:42:14 [notice] 1#1: worker process 209 exited with code 0
+2016/08/29 23:42:14 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:42:14 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:42:14 [notice] 1#1: worker process 210 exited with code 0
+2016/08/29 23:42:14 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:44:43 [notice] 218#218: signal process started
+2016/08/29 23:44:43 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/29 23:44:43 [notice] 1#1: reconfiguring
+2016/08/29 23:44:43 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:44:43 [notice] 1#1: start worker processes
+2016/08/29 23:44:43 [notice] 1#1: start worker process 223
+2016/08/29 23:44:43 [notice] 1#1: start worker process 224
+2016/08/29 23:44:43 [notice] 216#216: gracefully shutting down
+2016/08/29 23:44:43 [notice] 216#216: exiting
+2016/08/29 23:44:43 [notice] 216#216: exit
+2016/08/29 23:44:43 [notice] 217#217: gracefully shutting down
+2016/08/29 23:44:43 [notice] 217#217: exiting
+2016/08/29 23:44:43 [notice] 217#217: exit
+2016/08/29 23:44:43 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:44:43 [notice] 1#1: worker process 217 exited with code 0
+2016/08/29 23:44:43 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:44:43 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:44:43 [notice] 1#1: worker process 216 exited with code 0
+2016/08/29 23:44:43 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:45:38 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/29 23:45:38 [notice] 223#223: exiting
+2016/08/29 23:45:38 [notice] 223#223: exit
+2016/08/29 23:45:38 [notice] 224#224: exiting
+2016/08/29 23:45:38 [notice] 224#224: exit
+2016/08/29 23:45:38 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:45:38 [notice] 1#1: worker process 223 exited with code 0
+2016/08/29 23:45:38 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/29 23:45:38 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/29 23:45:38 [notice] 1#1: worker process 224 exited with code 0
+2016/08/29 23:45:38 [notice] 1#1: exit
+2016/08/29 23:45:41 [notice] 1#1: using the "epoll" event method
+2016/08/29 23:45:41 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/29 23:45:41 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/29 23:45:41 [notice] 1#1: OS: Linux 4.4.0-36-generic
+2016/08/29 23:45:41 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/29 23:45:41 [notice] 1#1: start worker processes
+2016/08/29 23:45:41 [notice] 1#1: start worker process 5
+2016/08/29 23:45:41 [notice] 1#1: start worker process 6
+2016/08/30 02:45:51 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2016/08/30 02:45:51 [notice] 6#6: exiting
+2016/08/30 02:45:51 [notice] 6#6: exit
+2016/08/30 02:45:51 [notice] 5#5: exiting
+2016/08/30 02:45:51 [notice] 5#5: exit
+2016/08/30 02:45:51 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/30 02:45:51 [notice] 1#1: worker process 5 exited with code 0
+2016/08/30 02:45:51 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/30 02:45:51 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/30 02:45:51 [notice] 1#1: worker process 6 exited with code 0
+2016/08/30 02:45:51 [notice] 1#1: exit
+2016/08/30 02:46:52 [notice] 1#1: using the "epoll" event method
+2016/08/30 02:46:52 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/30 02:46:52 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/30 02:46:52 [notice] 1#1: OS: Linux 4.4.0-36-generic
+2016/08/30 02:46:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/30 02:46:52 [notice] 1#1: start worker processes
+2016/08/30 02:46:52 [notice] 1#1: start worker process 7
+2016/08/30 02:46:52 [notice] 1#1: start worker process 8
+2016/08/30 02:48:03 [notice] 1#1: using the "epoll" event method
+2016/08/30 02:48:03 [notice] 1#1: nginx/1.11.3 (nginx-plus-r10)
+2016/08/30 02:48:03 [notice] 1#1: built by gcc 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.2) 
+2016/08/30 02:48:03 [notice] 1#1: OS: Linux 4.4.0-36-generic
+2016/08/30 02:48:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 65536:65536
+2016/08/30 02:48:03 [notice] 1#1: start worker processes
+2016/08/30 02:48:03 [notice] 1#1: start worker process 6
+2016/08/30 02:48:03 [notice] 1#1: start worker process 7
+2016/08/30 03:04:01 [notice] 8#8: signal process started
+2016/08/30 03:04:01 [notice] 1#1: signal 1 (SIGHUP) received, reconfiguring
+2016/08/30 03:04:01 [notice] 1#1: reconfiguring
+2016/08/30 03:04:01 [notice] 1#1: using the "epoll" event method
+2016/08/30 03:04:01 [notice] 1#1: start worker processes
+2016/08/30 03:04:01 [notice] 1#1: start worker process 12
+2016/08/30 03:04:01 [notice] 1#1: start worker process 13
+2016/08/30 03:04:01 [notice] 6#6: gracefully shutting down
+2016/08/30 03:04:01 [notice] 6#6: exiting
+2016/08/30 03:04:01 [notice] 6#6: exit
+2016/08/30 03:04:01 [notice] 7#7: gracefully shutting down
+2016/08/30 03:04:01 [notice] 7#7: exiting
+2016/08/30 03:04:01 [notice] 7#7: exit
+2016/08/30 03:04:01 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/30 03:04:01 [notice] 1#1: worker process 6 exited with code 0
+2016/08/30 03:04:01 [notice] 1#1: signal 29 (SIGIO) received
+2016/08/30 03:04:01 [notice] 1#1: signal 17 (SIGCHLD) received
+2016/08/30 03:04:01 [notice] 1#1: worker process 7 exited with code 0
+2016/08/30 03:04:01 [notice] 1#1: signal 29 (SIGIO) received
